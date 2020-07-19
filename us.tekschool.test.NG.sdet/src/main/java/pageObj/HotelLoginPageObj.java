@@ -39,5 +39,6 @@ public class HotelLoginPageObj extends Base {
 	}
 	public void clickonSignInButton() {
 		SignInButton.click();
+		
 	}
 }
