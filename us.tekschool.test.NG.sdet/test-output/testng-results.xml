@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42" started-at="2020-07-13T22:07:27Z" finished-at="2020-07-13T22:07:27Z">
+  <suite name="Default suite" duration-ms="65" started-at="2020-07-19T03:52:38Z" finished-at="2020-07-19T03:52:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42" started-at="2020-07-13T22:07:27Z" finished-at="2020-07-13T22:07:27Z">
+    <test name="Default test" duration-ms="65" started-at="2020-07-19T03:52:38Z" finished-at="2020-07-19T03:52:38Z">
       <class name="tests.CreateAccount">
-        <test-method status="FAIL" signature="createAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.CreateAccount@73846619]" name="createAccount" duration-ms="0" started-at="2020-07-13T22:07:27Z" data-provider="getInfoData" finished-at="2020-07-13T22:07:27Z">
+        <test-method status="FAIL" signature="createAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.CreateAccount@73846619]" name="createAccount" duration-ms="0" started-at="2020-07-19T03:52:38Z" data-provider="getInfoData" finished-at="2020-07-19T03:52:38Z">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
